@@ -10,14 +10,14 @@ These instructions will get you a copy of the project up and running on your loc
 1. **Install [Node 8.0.0 or greater](https://nodejs.org)**.
 2. **Install [Git](https://git-scm.com/downloads)**.
 
-### Installation
+### Installation and execution
 
-1. `npm install` installs the necessary dependency ([node-canvas-api](https://www.npmjs.com/package/node-canvas-api)
-1. Rename the `sample.env` file to be `.env`, and add your Canvas access token.
-
-### Running the sample code
-
-1. `node index.js` runs the `index.js` file, which logs the user's info from Canvas.
+1. Clone this repo. `git clone https://github.com/ubccapico/getting-started-with-the-canvas-api.git`
+1. Then cd into the repo. `cd getting-started-with-the-canvas-api`
+1. Run the installation script. `npm install` (If you see `babel-node: command not found`, you've missed this step.)
+1. Generate Canvas API token and copy it to clipboard.
+1. Rename the `sample.env` file to `.env`, and add your API token to `CANVAS_API_TOKEN=`.
+1. Run the script. `node index.js`. This should log your Canvas info.
 
 ### What to do from here
 
