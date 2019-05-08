@@ -1,4 +1,4 @@
-# Getting Started with the Canvas API
+# Getting Started with the Canvas API with Node.js
 
 This package will get you started with interfacing with the Canvas API using JavaScript/Node.js
 
