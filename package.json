@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "node-canvas-api": "^1.7.3"
+    "node-canvas-api": "^1.7.5"
   }
 }
