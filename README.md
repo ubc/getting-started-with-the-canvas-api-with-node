@@ -7,7 +7,7 @@ These instructions will get you a copy of the script up and running on your loca
 
 ### Prerequisites
 
-1. **Install [Node 8.0.0 or greater](https://nodejs.org)**.
+1. **Install [Node 20 or greater](https://nodejs.org)**.
 2. **Install [Git](https://git-scm.com/downloads)**.
 
 ### Installation and execution
