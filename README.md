@@ -24,7 +24,7 @@ These instructions will get you a copy of the script up and running on your loca
 
 ### What to do from here
 
-Try running some other scripts from [Capico](https://github.com/ubccapico). [This script](https://github.com/ubccapico/canvas-discussion), for example, allows you to download all of the Canvas discussions from your course.
+Try running some other scripts. [This script](https://github.com/ubccapico/canvas-discussion), for example, allows you to download all of the Canvas discussions from your course.
 
 You can also write your own code and run it! Be mindful that the API is running on the production Canvas instance - if you want to run against the Beta or Test instance, change the URL in `.env` to `https://ubc.test.instructure.com/api/v1` or `http://ubc.beta.instructure.com/api/v1` and regenerate your token(s) from the Beta/Test site. *Students do not have access to Beta or Test, sorry!*
 
