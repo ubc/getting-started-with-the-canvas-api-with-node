@@ -10,5 +10,11 @@
   "license": "ISC",
   "dependencies": {
     "node-canvas-api": "^1.7.5"
+  },
+  "overrides": {
+    "request": {
+      "form-data": "2.5.4"
+    },
+    "tough-cookie": "4.1.3"
   }
 }
