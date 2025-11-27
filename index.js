@@ -1,4 +1,4 @@
-const canvasAPI = require('node-canvas-api')
+import { getSelf } from 'node-canvas-api'
 
-canvasAPI.getSelf()
-  .then(self => console.log(self))
+const self = await getSelf()
+console.log(self)

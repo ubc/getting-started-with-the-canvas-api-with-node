@@ -2,13 +2,17 @@
   "name": "getting-started-with-the-api",
   "version": "1.0.0",
   "description": "",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
+  "engines": {
+    "node": ">=20"
+  },
   "dependencies": {
-    "node-canvas-api": "^1.7.5"
+    "node-canvas-api": "^2.0.0"
   }
 }
